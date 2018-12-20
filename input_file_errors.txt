@@ -1,0 +1,8 @@
+input_file_errors in Chinese.js
+
+comment within or end of the line Ex: // 1st
+duplicate keys example: 
+    -"Next"
+    -CONGRATULATIONS in line 69 & 70
+    -Notifications in line 144 & 150
+    -"Sorry, you can\'t cash out yet until you are a": "抱歉，你不能提现，提现需要先成为",
